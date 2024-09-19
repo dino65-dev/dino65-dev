@@ -29,7 +29,7 @@
 
 ## 📫 How to reach me
 
-- Email: [your-email@example.com](dinmaybrahma@outlook.com)
+- Email: [dinmaybrahma@outlook.com](mailto:your-email@example.com)
 - GitHub: [dino65-dev](https://github.com/dino65-dev)
 
 - ⚡ Fun fact: I can talk about neural networks and CRISPR over coffee like it’s casual small talk!

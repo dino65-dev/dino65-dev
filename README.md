@@ -27,10 +27,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dino65-dev&layout=compact&theme=radical)
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
-
 
 ## 📫 How to reach me
 

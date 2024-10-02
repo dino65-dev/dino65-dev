@@ -27,6 +27,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dino65-dev&layout=compact&theme=radical)
 
+[![Dinmay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dino65-dev&theme=dracula)](https://github.com/dino65-dev/github-readme-activity-graph)
+
 
 ## 📫 How to reach me
 

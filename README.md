@@ -18,6 +18,7 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
 - **[lox](https://github.com/dino65-dev/lox)**: A Python-based Lox interpreter under development.
+- **[MIRNET_plus_ESRGAN](https://github.com/dino65-dev/MIRNET_plus_ESRGAN)**: Jupyter  notebook implementing low-light enhancer with Super-resolution.
 - More projects coming soon...
 
 ## 🧰 Technologies & Tools

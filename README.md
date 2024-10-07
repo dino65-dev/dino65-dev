@@ -8,7 +8,7 @@
 - 🎓 Currently studying at **IIT Guwahati**
 - 🧠 Passionate about **AI, Quantum Computing**, and **Biotechnology**
 - ⚙️ I’m currently working on an exciting project: **[lox](https://github.com/dino65-dev/lox)**
-- 💡 I plan to work on creating an **Artificial Brain** using AI and quantum mechanics
+- 💡 I plan to work in future on creating an **Artificial Brain** using AI and quantum mechanics
 - 🛠 Skilled in **Python, AI development**
 
 ## 🚀 Projects

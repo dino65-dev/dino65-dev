@@ -29,6 +29,7 @@
 
 
 ## 📈 GitHub Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=dino65-dev)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dino65-dev&show_icons=true&theme=radical)
 

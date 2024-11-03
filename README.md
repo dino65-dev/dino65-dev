@@ -1,4 +1,8 @@
+<div align="center">
+
 ![Greetings](https://camo.githubusercontent.com/52a5b4f15dd1fa46a73a99f2dfeec6558b1a5079d96754f36b4e6a0799bd2e79/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d4f72626974726f6e2673697a653d343026636f6c6f723d253233373941353030266865696768743d3637266475726174696f6e3d333030302663656e7465723d74727565266c696e65733d254630253946253835254236254630253946253836253831254630253946253835254234254630253946253835254234254630253946253836253833254630253946253835254238254630253946253835254244254630253946253835254236254630253946253836253832)
+</div>
+
 <p align="center">
 <img src="https://media.giphy.com/media/gUvLYSSMguiSk/giphy.gif?cid=ecf05e47smj9pmo9gcikl7mo5ey37y8l0pfc8em8oooifc2a&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300" height="200">
   
@@ -10,8 +14,9 @@
 <br>
 <br>
 <br>
-
-## 💻 About Me
+<div align="center">
+ <h2>💻 About Me</h2>
+</div>
 <img src="https://giffiles.alphacoders.com/183/183677.gif" alt="Image" width="300" height="200" align="right" />
 
 - 🎓 Currently studying at **IIT Guwahati**
@@ -25,10 +30,9 @@
 <br>
 <br>
 <br>
-
-## 🚀 Projects
-
-<!--🐱CAT-->
+<div align="center">
+ <h2>🚀 Projects</h2>
+</div>
 <img src="https://media.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif?cid=ecf05e472zvesetj8iqzjzqo2aiiy6kl4h3pmarpuuapx3pj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" align="right">
   
 - **[lox](https://github.com/dino65-dev/lox)**: A Python-based Lox interpreter under development.
@@ -40,8 +44,9 @@
 <br>
 <br>
 <br>
-
-## 🧰 Technologies & Tools
+<div align="center">
+ <h2>🧰 Technologies & Tools</h2>
+</div>
 <img src="https://giffiles.alphacoders.com/370/3703.gif" width="200" align="right">
 
 <div align='center': style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="59" height="59" /><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50"></div>
@@ -52,8 +57,9 @@
 <br>
 <br>
 <br>
-
-## 📈 GitHub Stats
+<div align="center">
+ <h2>📈 GitHub Stats</h2>
+</div>
 <p align="center">
 <img src="https://giffiles.alphacoders.com/190/190440.gif" width="400" height="150">
 <br>

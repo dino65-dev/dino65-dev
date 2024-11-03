@@ -7,15 +7,15 @@
 <img src="https://media.giphy.com/media/gUvLYSSMguiSk/giphy.gif?cid=ecf05e47smj9pmo9gcikl7mo5ey37y8l0pfc8em8oooifc2a&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300" height="200">
   
 [![An image of @dino65dev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dino65dev)](https://holopin.io/@dino65dev)
-# <img src="https://giffiles.alphacoders.com/112/112844.gif" width="250" alt="animated hello">👋 I'm Dinmay!
+# <img src="https://giffiles.alphacoders.com/112/112844.gif" width="250" alt="animated hello">👋 𝓘'𝓶 𝓓𝓲𝓷𝓶𝓪𝔂!
 
-![Profile Views](https://komarev.com/ghpvc/?username=dino65-dev&color=blue&style=flat-square) ![GitHub Followers](https://img.shields.io/github/followers/dino65-dev?style=social) ![GitHub Stars](https://img.shields.io/github/stars/dino65-dev?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=dino65-dev&color=blue&style=flat-square) ![GitHub Followers](https://img.shields.io/github/followers/dino65-dev?style=social) 
 <br>
 <br>
 <br>
 <br>
 <div align="center">
- <h2>💻 About Me</h2>
+ <h2>~💻 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮~</h2>
 </div>
 <img src="https://giffiles.alphacoders.com/183/183677.gif" alt="Image" width="300" height="200" align="right" />
 
@@ -31,7 +31,7 @@
 <br>
 <br>
 <div align="center">
- <h2>🚀 Projects</h2>
+ <h2>~🚀 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼~</h2>
 </div>
 <img src="https://media.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif?cid=ecf05e472zvesetj8iqzjzqo2aiiy6kl4h3pmarpuuapx3pj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" align="right">
   
@@ -45,7 +45,7 @@
 <br>
 <br>
 <div align="center">
- <h2>🧰 Technologies & Tools</h2>
+ <h2>~🧰 𝓣𝓮𝓬𝓱𝓷𝓸𝓵𝓸𝓰𝓲𝓮𝓼 & 𝓣𝓸𝓸𝓵𝓼~</h2>
 </div>
 <img src="https://giffiles.alphacoders.com/262/26223.gif" width="250" height="150" align="right">
 
@@ -58,7 +58,7 @@
 <br>
 <br>
 <div align="center">
- <h2>📈 GitHub Stats</h2>
+ <h2>~📈 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼~</h2>
 </div>
 <p align="center">
 <img src="https://giffiles.alphacoders.com/190/190440.gif" width="400" height="150">
@@ -87,7 +87,7 @@
 <br>
 
 
-## 📫 How to reach me
+## 📫 𝙃𝙤𝙬 𝙩𝙤 𝙧𝙚𝙖𝙘𝙝 𝙢𝙚
 <img src="https://giffiles.alphacoders.com/112/112856.gif" width="400" height="300" align="right">
 
 - Email: [dinmaybrahma@outlook.com](mailto:your-email@example.com)

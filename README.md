@@ -37,7 +37,8 @@
   
 - **[lox](https://github.com/dino65-dev/lox)**: A Python-based Lox interpreter under development.
 - **[MIRNET_plus_ESRGAN](https://github.com/dino65-dev/MIRNET_plus_ESRGAN)**: Jupyter  notebook implementing low-light enhancer with Super-resolution.
-**[Chat_bot](https://dino65-dev-chatbot.vercel.app/)**:Openchat_bot. Just use it!!
+- **[Chat_bot](https://dino65-dev-chatbot.vercel.app/)**:Openchat_bot. Just use it!!
+- **[Code_bot](https://dino65-dev-mistralai.streamlit.app)**. Just use it for code!!
 - More projects coming soon...
 <br>
 <br>
